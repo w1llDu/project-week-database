@@ -1,4 +1,4 @@
 # Project Week Database
-### By: Coding Club
+### By: Commonwealth School Coding Club
 
 A website to access and search Commonwealth School's Project Week Database.
